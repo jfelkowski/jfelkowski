@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  color: black;
+  font-size: 26px;
+  font-family: Verdana;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.subtitle {
+  color: gray;
+  font-size: 16px;
+  font-family: Verdana;
+  text-shadow: -1px 0 paleturquoise;
+
+}
+
+#menu {
+  float: left;
+  margin: 30px;
+  width: 200px;
+}
+
+#menulist {
+  font-family: Verdana ;
+  font-size: 15px;
+  list-style-type: none;
+  padding: 0;
+}
+
+#content {
+  margin: 20px;
+  width: 500px;
+  float: left;
+  font-family: Verdana ;
+  font-size: 14px;
+  color: black;
+}
+
+#contentlist {
+  font-family: Verdana ;
+  font-size: 13px;
+  list-style-type: circle;
+}
+
+.links {
+  font-family: Verdana ;
+  font-size: 13px;
+  list-style-type: circle;
+}
